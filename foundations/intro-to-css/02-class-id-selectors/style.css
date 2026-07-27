@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+.impar{
+    background-color: #fcb0b0;
+    font-family: Verdana, sans-serif;
+}
+#number2{
+    color: #0000ff;
+    font-size: 36px;
+}
+#especial-impar{
+    font-size: 24px;
+}
+#number4{
+    background-color: #b7fdb7;
+    color: #000000;
+    font-size: 24px;
+    font-weight: bold;
+}
